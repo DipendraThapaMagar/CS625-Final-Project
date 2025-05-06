@@ -54,7 +54,7 @@ Q2. **How does smoking status impact insurance charges across different age grou
 
 # Visualizations
 ## Box Plot
-<img src="Projects/Box.png" height="600" alt="">
+<img src="Box.png" height="600" alt="">
 
 ### Supporting Plot (Choropleth Map)
 <img src="Projects/Choropleth.png" height="400" alt="">
