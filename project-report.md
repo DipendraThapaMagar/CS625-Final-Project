@@ -78,7 +78,7 @@ Idiom: Box Plot / Mark: Rectangular Box, Line, Points
 
 
 ## Line Chart
-<img src="Projects/line.png" height="600" alt="">
+<img src="line.png" height="600" alt="">
 
 **Chart link in GitHub:** https://github.com/odu-cs625-datavis/Spring25-asv-DipendraThapaMagar/blob/main/Projects/line.png
 
